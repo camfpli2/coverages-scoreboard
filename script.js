@@ -4,7 +4,8 @@ var wholeSchool=[]
 
 
 function setup(){
-  
+  createCanvas(500,500);
+  background(90,90,190);
 }
 
 
