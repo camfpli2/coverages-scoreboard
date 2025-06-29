@@ -1,0 +1,10 @@
+var wholeSchool=[]
+
+
+
+
+function setup(){
+  
+}
+
+
