@@ -1,3 +1,5 @@
+//wholeSchool will be a database
+// [person,dept,covDone,covGen,daysOut,last5,last10]
 var wholeSchool=[]
 
 
